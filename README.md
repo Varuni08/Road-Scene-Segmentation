@@ -54,7 +54,3 @@ The segmented output video will be saved locally.
 * Urban mapping
 * Traffic monitoring
 * Computer vision experimentation
-
-## Note
-
-Input and output video files are excluded from this repository because of their file size.
