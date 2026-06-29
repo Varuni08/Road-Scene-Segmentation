@@ -1,0 +1,7 @@
+@"
+torch
+numpy
+opencv-python
+pillow
+transformers
+"@ | Set-Content requirements.txt
